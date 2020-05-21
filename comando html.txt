@@ -1,0 +1,18 @@
+<html> </html> crear una pagina web 
+<head> </head>
+<title>titulo</title>
+ <body> cuerpo de la pagina  </body>
+<meta charset="utf-8"> poner asentos letras como ñ
+<h1></h1> hacer encabezados 
+html:5 y TAB poner codigo automatico
+<p>para agregar parafos </p>
+<br>salto de linea </br>
+<b>negritas</b>
+<strong>negritas</strong>
+<i>letra italic</i>
+<em>enfasis</em>
+<small>letra pequeña</small>
+width ancho
+height alto
+../ un directorio atras
+maxlength numero de caracteres que puede escribir 
